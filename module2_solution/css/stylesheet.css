@@ -1,1 +1,10 @@
 
+@media-queries(min-width:992px){
+  
+}
+
+@media-queries(min-width:768px ) and (max-width:991px){
+  
+}
+
+@media-queries()
